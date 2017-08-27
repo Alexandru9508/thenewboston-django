@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"templa",
+				"template_name\tstatement"
+			],
+			[
+				"Choi",
+				"ChoiceField"
+			],
+			[
+				"Q",
+				"Question\tclass"
+			],
+			[
+				"ch",
+				"choices"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"get",
+				"GET"
+			],
+			[
+				"Qu",
+				"QuestionsForm\tclass"
+			],
+			[
+				"for",
+				"forms\tmodule"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"st",
+				"site\tinstance"
+			],
+			[
+				"p",
+				"pub_date\tstatement"
+			],
+			[
+				"pu",
+				"published_date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/prelipcean/work/thenowboston/website/manage.py",
+		"/home/prelipcean/work/thenowboston/website",
+		"/home/prelipcean/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/prelipcean/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/prelipcean/work/mysite_project/mysite1/mysite/settings.py",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/models.py",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/forms.py",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/templates/polls/detail.html",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/urls.py",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/templates/polls/index.html",
+		"/home/prelipcean/work/mysite_project/mysite1/polls/views.py",
+		"/home/prelipcean/work/mysite_project/mysite1/mysite/urls.py",
+		"/home/prelipcean/Music/mysite1/mysite/__init__.py",
+		"/home/prelipcean/Music/mysite1/mysite/settings.py",
+		"/home/prelipcean/djangoa/mysite/polls/views.py",
+		"/home/prelipcean/djangoa/mysite/polls/admin.py",
+		"/home/prelipcean/djangoa/mysite/polls/models.py",
+		"/home/prelipcean/djangoa/mysite/mysite/settings.py",
+		"/home/prelipcean/djangoa/mysite/mysite/urls.py",
+		"/home/prelipcean/djangoa/mysite/polls/templates/polls/detail.html",
+		"/home/prelipcean/djangoa/mysite/polls/templates/polls/index.html",
+		"/home/prelipcean/djangoa/mysite/polls/urls.py",
+		"/home/prelipcean/djangoa/mysite/polls/tests.py",
+		"/home/prelipcean/djangoa/mysite/polls/__init__.py",
+		"/home/prelipcean/djangoa/mysite/polls/templates/polls/templates",
+		"/home/prelipcean/django/mysite/mysite/urls.py",
+		"/home/prelipcean/django/mysite/polls/urls.py",
+		"/home/prelipcean/django/mysite/polls/models.py",
+		"/home/prelipcean/djangoa/mysite/polls/mysite",
+		"/home/prelipcean/django/mysite/polls/admin.py",
+		"/home/prelipcean/django/mysite/mysite/settings.py",
+		"/home/prelipcean/django/mysite/polls/views.py",
+		"/home/prelipcean/django/mysite/manage.py",
+		"/home/prelipcean/Documents/djangogirls/blog/templates/blog/post_list.html",
+		"/home/prelipcean/Documents/djangogirls/blog/templates/blog",
+		"/home/prelipcean/Documents/djangogirls/mysite/settings.py",
+		"/home/prelipcean/Documents/djangogirls/.gitignore",
+		"/home/prelipcean/Documents/djangogirls/blog/admin.py",
+		"/home/prelipcean/Documents/djangogirls/blog/models.py",
+		"/home/prelipcean/Documents/django",
+		"/home/prelipcean/Documents/taskbuster_project/TaskBuster.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shift+9",
+			"shift",
+			"shift+0",
+			"shift+9",
+			" #",
+			"sd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pollvi",
+				"polls/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
